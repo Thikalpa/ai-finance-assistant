@@ -12,7 +12,7 @@ Many small businesses record their financial transactions but may not have enoug
 
 The purpose of this project is to develop an AI assistant that can analyse basic financial information and help business owners understand their business performance. The system could identify spending patterns, highlight unusual transactions, and provide suggestions for improving budgeting and cost management.
 
-This idea is particularly interesting because financial data contains useful information that can support business decision-making. Instead of requiring business owners to analyse large amounts of data manually, AI could help identify important patterns and present them in a simple way.
+This idea is interesting because financial data contains useful information that can support business decision-making. Instead of requiring business owners to analyse large amounts of data manually, AI could help identify important patterns and present them in a simple and understandable way.
 
 How is it used?
 
@@ -30,7 +30,7 @@ Other business costs
 
 The AI would analyse the information and provide an understandable summary of the business's financial situation.
 
-For example, the system could:
+The system could:
 
 Categorise business expenses.
 Identify unusually high expenses.
